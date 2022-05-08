@@ -15,7 +15,7 @@ A super helpful tool that I used for the text editor was Visual Studio Code and 
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+
 * Make the board appear before getting the users input
 * Add a counter to count the wins and loses
 * Allow user to input name before starting.
