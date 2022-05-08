@@ -1,3 +1,0 @@
-C:\Users\confi\source\repos\Mototoe\TicTacToeC--\TicTacToe\x64\Debug\TicTacToe.vcxproj.AssemblyReference.cache
-C:\Users\confi\source\repos\Mototoe\TicTacToeC--\TicTacToe\x64\Debug\TicTacToe.vcxproj.SuggestedBindingRedirects.cache
-C:\Users\confi\source\repos\Mototoe\TicTacToeC--\TicTacToe\x64\Debug\TicTacToe.exe
